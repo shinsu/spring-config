@@ -3,4 +3,4 @@ token:
   secret: user_token_dev#2
   
 gateway:
-  ip: 127.0.0.1
+  ip: 178.18.0.102
